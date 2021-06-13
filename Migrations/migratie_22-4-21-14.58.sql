@@ -1,0 +1,15 @@
+insert into Rubriek VALUES (6, 'Tuin', NULL, 6)
+insert into Rubriek VALUES (7, 'Huis', NULL, 7)
+insert into Rubriek VALUES (8, 'Kleding', NULL, 8)
+insert into Rubriek VALUES (9, 'Electronica', NULL, 9)
+insert into Rubriek VALUES (10, 'Boeken', NULL, 10)
+
+insert into Rubriek VALUES (11, 'Woonkamer', 7, 11)
+insert into Rubriek VALUES (12, 'Keuken', 7, 12)
+insert into Rubriek VALUES (13, 'Diverse', 7, 13)
+insert into Rubriek VALUES (14, 'Slaapkamer', 7, 14)
+insert into Rubriek VALUES (15, 'Kinderkamer', 7, 15)
+insert into Rubriek VALUES (16, 'Zolder', 7, 16)
+
+insert into Rubriek VALUES (17, 'Tavels', 11, 17)
+insert into Rubriek VALUES (18, 'Stoelen', 11, 18)

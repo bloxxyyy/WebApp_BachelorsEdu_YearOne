@@ -1,0 +1,5 @@
+insert into Rubriek VALUES (1, 'Speelgoed', NULL, 1)
+insert into Rubriek VALUES (2, 'Lego', 1, 2)
+insert into Rubriek VALUES (3, 'Knex', 1, 3)
+insert into Rubriek VALUES (4, 'Auto`s', NULL, 4)
+insert into Rubriek VALUES (5, 'Auto Onderdelen', 4, 5)
