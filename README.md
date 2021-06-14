@@ -3,7 +3,5 @@ Team app I was part of for my first year of my Bachelors degree
 
 Team members: 
 
-bloxxyyy https://github.com/bloxxyyy/
-Metasploitable: https://github.com/Metasploitable
--
--
+- bloxxyyy https://github.com/bloxxyyy/
+- Metasploitable: https://github.com/Metasploitable
